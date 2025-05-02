@@ -121,4 +121,3 @@ Contributions to improve Clean Nigeria Pickup Now are welcome! Please feel free 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-# Waste-Management
